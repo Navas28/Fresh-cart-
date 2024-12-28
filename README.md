@@ -28,7 +28,7 @@ Fresh Cart is a modern e-commerce website built with Bootstrap that delivers hig
 - Optimized performance
 
 ## Live Demo
-Check out the live website: [Fresh Cart](https://freshcart.example.com)
+Check out the live website: [Fresh Cart](https://navas28.github.io/Fresh-cart-/)
 
 ## Screenshots
 ![Homepage](./image/home-page.png)
